@@ -16,7 +16,7 @@ const sidebarMenu = [
       {
         icon: '/supply.jpg',
         label: 'Suppliers',
-        href: '/',
+        href: '/list/suppliers',
         visible: ['admin'],
       },
       {

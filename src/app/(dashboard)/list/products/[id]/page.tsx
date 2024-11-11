@@ -4,6 +4,7 @@ import SalesBarChart from '@/components/SalesBarChart';
 import DailyChart from '@/components/DailyChart';
 import YearlyChart from '@/components/YearlyChart';
 import Calander from '@/components/Calander';
+import Restoks from '@/components/Restoks';
 
 const SinlgeProdcutPage = () => {
   return (
@@ -32,8 +33,9 @@ const SinlgeProdcutPage = () => {
 
 
       {/* right side  */}
-      <div className='w-full lg:w-1/3 h-[450px]'>
+      <div className='w-full lg:w-1/3 flex flex-col gap-8'>
         <Calander/>
+        <Restoks/>
       </div>
 
     </div>

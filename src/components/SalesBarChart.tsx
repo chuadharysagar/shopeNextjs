@@ -7,7 +7,6 @@ const data = [
    {
       name: 'Mon',
       sales: 3000,
-      fill:'#1f77b4',
    },
    {
       name: 'Tue',
