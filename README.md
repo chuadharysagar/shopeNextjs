@@ -26,7 +26,7 @@ Attach your screenshots in the placeholders below:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/business-analytics-dashboard.git
+https://github.com/chuadharysagar/shopeNextjs.git
 cd business-analytics-dashboard
 
 # Install dependencies
