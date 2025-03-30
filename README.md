@@ -11,7 +11,6 @@ A business analytics dashboard designed for retail stores to track sales, invent
 ## Tech Stack
 - **Frontend**: React.js, TypeScript
 - **Backend**: PostgreSQL, Prisma ORM
-- **Deployment**: Any cloud platform (e.g., Vercel, AWS, Heroku)
 
 ## Screenshots
 Attach your screenshots in the placeholders below:
